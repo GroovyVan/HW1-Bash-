@@ -1,0 +1,2 @@
+mkdir script; cd script; mkdir newnew1 newnew2 newnew3;cd newnew1;touch A.txt B.txt C.txt D.json E.json; mkdir 1 2 3; ls;mv D.json E.json ..
+
